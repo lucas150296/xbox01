@@ -1,0 +1,23 @@
+.submenu {
+  display: flex;
+  text-align:left;
+}
+
+.banner{
+    height: 580px;
+  }
+  .textoBanner{
+    color:white;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: left;
+  }
+.theMedium{
+  font-size: 25px;
+  font-family: Lucida Console", "Courier New", monospace";
+  display: flex;
+  text-align: end;
+}
+.bataobanner{
+  color: black;
+  background-color: chartreuse;
+}
